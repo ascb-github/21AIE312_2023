@@ -40,6 +40,6 @@ To use this repository, you can follow these steps:
 
 
 ### Team 04
-Savarala Chethana - BL.EN.U4AIE20059
-Sreevathsa Sree Charan - BL.EN.U4AIE20062
-Vemula Srihitha - BL.EN.U4AIE20072
+ - Savarala Chethana - BL.EN.U4AIE20059
+ - Sreevathsa Sree Charan - BL.EN.U4AIE20062
+ - Vemula Srihitha - BL.EN.U4AIE20072
