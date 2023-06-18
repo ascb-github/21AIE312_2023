@@ -21,4 +21,4 @@ The dataset can be downloaded from: https://www.kaggle.com/datasets/sougandhthat
 Team 21
 - Nithish Sagar Reddy - BL.EN.U4AIE20045
 - Sai Snehith K - BL.EN.U4AIE20057
-- T Giri Soougandh - BL.EN.U4AIE20068
+- T Giri Sougandh - BL.EN.U4AIE20068
