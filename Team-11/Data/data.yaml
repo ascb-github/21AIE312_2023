@@ -1,0 +1,13 @@
+train: /kaggle/input/potholesdata/pothole finder.v1i.yolov5pytorch/train/images
+val: /kaggle/input/potholesdata/pothole finder.v1i.yolov5pytorch/valid/images
+test: /kaggle/input/potholesdata/pothole finder.v1i.yolov5pytorch/test/images
+
+nc: 3
+names: ['Puddle pothole', 'manhole', 'potholes']
+
+roboflow:
+  workspace: potholes-7ebll
+  project: pothole-finder-h1tcd
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/potholes-7ebll/pothole-finder-h1tcd/dataset/1
